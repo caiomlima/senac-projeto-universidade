@@ -20,3 +20,9 @@
 
 ## Tela pós inscrição curso e vagas (Cadastro comum)
 ![tela pós acessos comuns](https://github.com/caiomlima/senac-projeto-universidade/assets/81893358/283ef0ab-f278-403c-9bcf-7838e59665c5)
+
+## Diagrama de Casos de uso
+![Diagrama - Casos de Uso](https://github.com/caiomlima/senac-projeto-universidade/assets/81893358/2a7e6fe8-4e96-4549-80d8-6dc86cb68dc9)
+
+## Diagrama de classes
+![Diagrama de classe](https://github.com/caiomlima/senac-projeto-universidade/assets/81893358/1b09f734-b755-456b-8fe1-38a0eb40b35c)
